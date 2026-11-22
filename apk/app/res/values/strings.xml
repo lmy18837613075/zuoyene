@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">作业呢</string>
+    <string name="jump_desc">点作业卡片时自动打开学习通并进入对应作业</string>
+</resources>

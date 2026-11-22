@@ -1,0 +1,8 @@
+build/
+*.apk
+!release/*.apk
+*.log
+*.class
+*.dex
+.idea/
+.DS_Store
