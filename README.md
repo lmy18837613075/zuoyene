@@ -4,6 +4,8 @@
 
 Android 6.0+ / 单 APK / 无第三方依赖 / 无 Gradle。
 
+**[⬇ 下载 zuoyene-v13.apk](https://github.com/lmy18837613075/zuoyene/releases/download/v13/zuoyene-v13.apk)**（132.9 KB） · [Releases](https://github.com/lmy18837613075/zuoyene/releases)
+
 ```
 release/zuoyene-v13.apk   132.9 KB
 ```
