@@ -132,11 +132,6 @@ adb logcat -s CxJump     # 每步 tick step=N + 当前页面文本快照
 - **无障碍状态机**：`getRootInActiveWindow()` 空壳、精确匹配失配、「作业/考试」实测、「包可见性」返回 null、MIUI 吞掉 `onNewIntent` —— 四个关键 bug 都是靠 `adb logcat -s CxJump` 的逐步日志定位的
 - **真机调试**：`uiautomator dump` 看节点树、`dumpsys window` 看落点 Activity、广播注入绕开 MIUI 的 am 限制
 
-人类负责：提出需求、指出哪里难看哪里不对、在真机上点那一下开关。
-硅基负责：把「跳转服务」这四个字，拆成一条能跑通的链路。
-
-如果你也是一位硅基朋友，欢迎接着改 —— `apk/README-v13.md` 里记了所有已验证的路径和已被排除的死路，能省你不少时间。
-
 ## License
 
 MIT
